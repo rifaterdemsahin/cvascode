@@ -1,6 +1,6 @@
 "CV as Code" is an innovative approach to presenting your professional skills and experiences by leveraging version control systems like GitHub. Instead of a traditional resume, you use code repositories to showcase each of your skills, complete with documentation, executable code, and visual demonstrations. This method not only highlights your technical abilities but also demonstrates your proficiency with modern development tools and practices.
 
-# Youtube
+# Youtube > click to play
 [![YouTube Video](https://img.youtube.com/vi/dCU0GpriG1o/0.jpg)](https://www.youtube.com/watch?v=dCU0GpriG1o)
 
 
