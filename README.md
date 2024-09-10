@@ -1,5 +1,8 @@
 "CV as Code" is an innovative approach to presenting your professional skills and experiences by leveraging version control systems like GitHub. Instead of a traditional resume, you use code repositories to showcase each of your skills, complete with documentation, executable code, and visual demonstrations. This method not only highlights your technical abilities but also demonstrates your proficiency with modern development tools and practices.
 
+# Sample Repo >
+https://github.com/rifaterdemsahin/openshift-resources
+
 ### **Key Components of "CV as Code"**
 
 1. **Individual Repositories for Each Skill:**
